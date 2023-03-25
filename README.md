@@ -21,6 +21,8 @@ cd SRGAN_OCT
 
 3. Run the 'SRGAN_TrainAndCompare.ipynb' notebook in Jupyter. The notebook contains code for loading and preprocessing dataset for SRGAN training (such as resizing the images for low and high resolution versions), building the SRGAN model from scratch, and training it on the dataset.
 
+*Note: For the machine used for running the notebook, the directory for the repository location had to be stated for any directory access for some reason. This seems to only be an issue with my environment, so change the data directories for your own case based on the error debug statements.*
+
 ## Credits
 The SRGAN model implementation is based on the paper "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network" by Christian Ledig et al.
 
