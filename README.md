@@ -1,7 +1,7 @@
 # SRGAN_OCT
 Using Super Resolution GAN to restore blurred/low resolution images of retina OCT scans and compare training results of original resolution and generated resolution images.
 
-![Low Resolution (Left) vs High Resolution (Center) vs Generated Super Resolution (Right)](images/LRvsHRvsSR.jpg)
+![Low Resolution (Left) vs High Resolution (Center) vs Generated Super Resolution (Right)](images/LRvsHRvsSR_resBlocks.jpg)
 
 ## Requirements
 The following packages are required to run the code:
